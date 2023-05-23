@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "529235055680",
+    "project_id": "co-velo-c1fb7",
+    "storage_bucket": "co-velo-c1fb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529235055680:android:6c73f6634ae09b7ec53ba5",
+        "android_client_info": {
+          "package_name": "com.meomeo2206.CoVeLo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529235055680-8v31l9vap6ir8svdfla53i0gdetvg0b9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meomeo2206.CoVeLo",
+            "certificate_hash": "48ef23d69e83b759505e8ddd5680fb2b8ff2c903"
+          }
+        },
+        {
+          "client_id": "529235055680-fsgs3bl5jhp9ua5iqa2kgnok6bvjmp5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meomeo2206.CoVeLo",
+            "certificate_hash": "5b506c0a64ee82ea23e15705750fb95f4b00810e"
+          }
+        },
+        {
+          "client_id": "529235055680-iadqcjfiu1jumc49objqak8ri8rlerj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOsfHGGQ_6WhzD6pDGwr7wxGkCuS_lv3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529235055680-iadqcjfiu1jumc49objqak8ri8rlerj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
